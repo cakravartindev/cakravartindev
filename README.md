@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @cakravartindev.
-- 👀 I’m interested in technology, ecology, history and generally speaking polymathy.
-- 🌱 I’m currently learning WebAssembly and Type Theory.
-- 💞️ I’m looking to collaborate on conservation or humanitarian projects.
 - 📫 How to reach me: cakravartindev@protonmail.com
 
 <!---
